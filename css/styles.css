@@ -258,13 +258,15 @@ nav ul li a {
     margin-bottom: 15px;
 }
 
-.project-card .btn {
-    background-color: #28a745;
+.project-card ul {
+    padding-left: 1.5em;
 }
 
-.project-card .btn:hover {
-    background-color: #218838;
+.project-card li {
+    text-align: left;
 }
+
+
 
 /* Work Experience Section */
 
